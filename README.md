@@ -8,7 +8,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,tailwind,sass,postgres,mongodb,nextjs,vercel"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,postgres,mongodb,nextjs,vercel"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=alvisalc&show_icons=true&locale=en&layout=compact" alt="alvisalc" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=alvisalc&show_icons=true&locale=en&layout=compact" alt="alvisalc" />
+&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alvisalc&show_icons=true&locale=en" alt="alvisalc" /></p>
+
