@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvisalc&label=Profile%20views&color=0e75b6&style=flat" alt="alvisalc" /> </p>
 
-- 📫 Portfolio: https://alvis-dev.vercel.app/
 - 🌱 I'm currently learning **Next.js**
 
 <h3 align="left">Languages and Tools:</h3>
